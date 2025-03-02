@@ -1,4 +1,4 @@
-![Header](https://github.com/mynameisSergey/mynameisSergey/blob/main/assets/%D0%BA%D0%B8%D1%81%D0%B0.gif) 
+![Header](https://github.com/mynameisSergey/mynameisSergey/blob/main/assets/%D0%9C%D0%B0%D1%80%D0%B8%D0%BE.gif) 
 
 ## Hello! I'm a Java developer!
 
