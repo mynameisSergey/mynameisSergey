@@ -2,6 +2,7 @@
 
 About me
 
-Languages and Tools
-
+### Languages and Tools
+![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=appveyor)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=appveyor)
 Follow me
