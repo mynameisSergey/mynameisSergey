@@ -4,15 +4,16 @@
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-yellowgreen?style=for-the-badge&logo=PostgreSQL&logoColor=blue)
-![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=Sql)
 ![Spring](https://img.shields.io/badge/-Spring-orange?style=for-the-badge&logo=Spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-informational?style=for-the-badge&logo=Hibernate)
-![Maven](https://img.shields.io/badge/-Maven-blue?style=for-the-badge&logo=Maven)
 ![Docker](https://img.shields.io/badge/-Docker-rgba?style=for-the-badge&logo=docker&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-lightgray?style=for-the-badge&logo=GitHub&logoColor=black)
-![JUnit](https://img.shields.io/badge/-JUnit-aqua?style=for-the-badge&logo=Junit)
+![Postman](https://img.shields.io/badge/-Postman-red?style=for-the-badge&logo=Postman&logoColor=orange)
 ![Mockito](https://img.shields.io/badge/-Mockito-blue?style=for-the-badge&logo=Mockito)
-![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=Git)
+![JUnit](https://img.shields.io/badge/-JUnit-aqua?style=for-the-badge&logo=Junit)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=Sql)
+![Maven](https://img.shields.io/badge/-Maven-blue?style=for-the-badge&logo=Maven)
+
 
 
 
