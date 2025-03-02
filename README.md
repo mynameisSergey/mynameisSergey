@@ -10,7 +10,7 @@ About me
 ![Hibernate](https://img.shields.io/badge/-Hibernate-blue?style=for-the-badge&logo=Hibernate&logoColor=hex)
 ![Maven](https://img.shields.io/badge/-Maven-blue?style=for-the-badge&logo=Maven&logoColor=rgb)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=rgba)
-![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=Git&logoColor=hsl)
+![Git](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=GitHub&logoColor=hsl)
 ![JUnit](https://img.shields.io/badge/-JUnit-blue?style=for-the-badge&logo=Junit&logoColor=hsla )
 ![Mockito](https://img.shields.io/badge/-Mockito-blue?style=for-the-badge&logo=Mockito&logoColor=css)
 
