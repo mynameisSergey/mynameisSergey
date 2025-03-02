@@ -20,7 +20,7 @@
 ![Microservices](https://img.shields.io/badge/-Microservices-black?style=for-the-badge&logo=Microservices)
 ![API](https://img.shields.io/badge/-API-green?style=for-the-badge&logo=API)
 ![Security](https://img.shields.io/badge/-Security-blue?style=for-the-badge&logo=Security)  
-
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-rad?style=for-the-badge&logo=Thymeleaf)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/YAKSS9)  
