@@ -1,6 +1,6 @@
 ![Header](https://github.com/mynameisSergey/mynameisSergey/blob/main/assets/%D0%BA%D0%B8%D1%81%D0%B0.gif) 
 
-
+## Hello! I'm a Java developer!
 
 
 ### Languages and Tools
@@ -25,4 +25,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/YAKSS9)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
