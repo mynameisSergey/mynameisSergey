@@ -4,7 +4,7 @@ About me
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=red)
-![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-blue?style=for-the-badge&logo=PostgresSQL&logoColor=blue)
+![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=Sql&logoColor=orange)
 ![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&logo=Spring&logoColor=green)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-blue?style=for-the-badge&logo=Hibernate&logoColor=hex)
@@ -13,4 +13,6 @@ About me
 ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=Git&logoColor=hsl)
 ![JUnit](https://img.shields.io/badge/-JUnit-blue?style=for-the-badge&logo=Junit&logoColor=hsla )
 ![Mockito](https://img.shields.io/badge/-Mockito-blue?style=for-the-badge&logo=Mockito&logoColor=css)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey)](https://github.com/anuraghazra/github-readme-stats)
 Follow me
