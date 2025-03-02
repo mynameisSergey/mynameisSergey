@@ -22,7 +22,7 @@
 ![Security](https://img.shields.io/badge/-Security-red?style=for-the-badge&logo=Security)
 
 ### Follow me
-![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)(https://t.me/@YAKSS9)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/YAKSS9)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
