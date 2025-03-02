@@ -14,5 +14,5 @@ About me
 ![JUnit](https://img.shields.io/badge/-JUnit-blue?style=for-the-badge&logo=Junit&logoColor=hsla )
 ![Mockito](https://img.shields.io/badge/-Mockito-blue?style=for-the-badge&logo=Mockito&logoColor=css)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 Follow me
