@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
+          ![Header](https://github.com/mynameisSergey/mynameisSergey/blob/main/assets/170505afac62b7104c9cb6e6e57ad14e51f8e1233236a47d8c675258ae056c99.webp) 
 
 About me
 
