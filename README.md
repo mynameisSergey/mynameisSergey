@@ -4,7 +4,7 @@ About me
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=appveyor)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=appveyor
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-blue?style=for-the-badge&logo=appveyor)
 ![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&logo=appveyor)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-blue?style=for-the-badge&logo=appveyor)
 ![Maven](https://img.shields.io/badge/-Maven-blue?style=for-the-badge&logo=appveyor)
