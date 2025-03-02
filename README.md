@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
 ![Mockito](https://img.shields.io/badge/-Mockito-inactive?style=for-the-badge&logo=Mockito)
 ![JUnit](https://img.shields.io/badge/-JUnit-aqua?style=for-the-badge&logo=Junit)
-![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=Sql)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=MySql)
 ![Maven](https://img.shields.io/badge/-Maven-blue?style=for-the-badge&logo=Maven)
 ![JDBC](https://img.shields.io/badge/-JDBC-red?style=for-the-badge&logo=JDBC)
 ![JPA](https://img.shields.io/badge/-JPA-yellowgreen?style=for-the-badge&logo=JPA&logoColor=blue)
