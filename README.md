@@ -5,8 +5,8 @@
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL)
 ![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&logo=Spring)
+![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-orange?style=for-the-badge&logo=Hibernate)
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=GitHub&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-White?style=for-the-badge&logo=docker&logoColor=blue)
