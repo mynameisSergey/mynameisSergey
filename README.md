@@ -4,22 +4,22 @@
 
 
 ### Languages and Tools
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-red?style=for-the-badge&logo=PostgreSQL&logoColor=blue)
-![Spring](https://img.shields.io/badge/-Spring-red?style=for-the-badge&logo=Spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-red?style=for-the-badge&logo=Hibernate)
-![GitHub](https://img.shields.io/badge/-GitHub-red?style=for-the-badge&logo=GitHub&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-red?style=for-the-badge&logo=Postman&logoColor=orange)
-![Docker](https://img.shields.io/badge/-Docker-red?style=for-the-badge&logo=docker)
-![Mockito](https://img.shields.io/badge/-Mockito-red?style=for-the-badge&logo=Mockito)
-![JUnit](https://img.shields.io/badge/-JUnit-red?style=for-the-badge&logo=Junit)
-![SQL](https://img.shields.io/badge/-SQL-red?style=for-the-badge&logo=MySql)
-![Maven](https://img.shields.io/badge/-Maven-red?style=for-the-badge&logo=Maven)
-![JDBC](https://img.shields.io/badge/-JDBC-red?style=for-the-badge&logo=JDBC)
-![JPA](https://img.shields.io/badge/-JPA-red?style=for-the-badge&logo=JPA&logoColor=blue)
-![Microservices](https://img.shields.io/badge/-Microservices-red?style=for-the-badge&logo=Microservices)
-![API](https://img.shields.io/badge/-API-red?style=for-the-badge&logo=API)
-![Security](https://img.shields.io/badge/-Security-red?style=for-the-badge&logo=Security)  
+![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java)
+![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL)
+![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&logo=Spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-blue?style=for-the-badge&logo=Hibernate)
+![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=GitHub)
+![Postman](https://img.shields.io/badge/-Postman-blue?style=for-the-badge&logo=Postman)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
+![Mockito](https://img.shields.io/badge/-Mockito-blue?style=for-the-badge&logo=Mockito)
+![JUnit](https://img.shields.io/badge/-JUnit-blue?style=for-the-badge&logo=Junit)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=MySql)
+![Maven](https://img.shields.io/badge/-Maven-blue?style=for-the-badge&logo=Maven)
+![JDBC](https://img.shields.io/badge/-JDBC-blue?style=for-the-badge&logo=JDBC)
+![JPA](https://img.shields.io/badge/-JPA-blue?style=for-the-badge&logo=JPA)
+![Microservices](https://img.shields.io/badge/-Microservices-blue?style=for-the-badge&logo=Microservices)
+![API](https://img.shields.io/badge/-API-blue?style=for-the-badge&logo=API)
+![Security](https://img.shields.io/badge/-Security-blue?style=for-the-badge&logo=Security)  
 
 
 ### Follow me
