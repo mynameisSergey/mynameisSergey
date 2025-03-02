@@ -21,6 +21,8 @@
 ![API](https://img.shields.io/badge/-API-informational?style=for-the-badge&logo=API)
 ![Security](https://img.shields.io/badge/-Security-red?style=for-the-badge&logo=Security)
 
+### Follow me
+![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
