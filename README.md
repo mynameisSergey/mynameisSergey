@@ -19,7 +19,7 @@
 ![JPA](https://img.shields.io/badge/-JPA-grey?style=for-the-badge&logo=JPA)
 ![Microservices](https://img.shields.io/badge/-Microservices-black?style=for-the-badge&logo=Microservices)
 ![API](https://img.shields.io/badge/-API-green?style=for-the-badge&logo=API)
-![Security](https://img.shields.io/badge/-SpringSecurity-blue?style=for-the-badge&logo=SpringSecurity)
+![Security](https://img.shields.io/badge/-Security-blue?style=for-the-badge&logo=Security)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-red?style=for-the-badge&logo=Thymeleaf)
 
 ### Follow me
