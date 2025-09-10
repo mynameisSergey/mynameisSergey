@@ -1,42 +1,31 @@
 ![Header](https://github.com/mynameisSergey/mynameisSergey/blob/main/assets/%D0%9C%D0%B0%D1%80%D0%B8%D0%BE.gif) 
 
 ## Hello! I'm a Java developer!
-# Мои навыки и технологии
+# TECHNICAL SKILLS
 
-### Java Core  
-- Java 8, 11, 17, 21
+|![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) |![Project Reactor](https://upload.wikimedia.org/wikipedia/commons/6/6a/Project_Reactor_logo.svg) |![Lombok](https://projectlombok.org/images/logo.svg) |![ModelMapper](https://avatars.githubusercontent.com/u/19306064?s=200&v=4) |![JUnit5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit5/junit5-plain.svg) |![Mockito](https://cdn.iconscout.com/icon/free/png-256/mockito-3623865-3028513.png) |![Testcontainers](https://www.testcontainers.org/images/testcontainers_logo.svg) |
+|---|---|---|---|---|---|---|---|
+| Java Core (8,11,17,21) | Spring Framework (Core, Cloud, Boot, MVC...) | Project Reactor | Lombok | ModelMapper | JUnit 5 | Mockito | Testcontainers |
 
-### Фреймворки и библиотеки  
-|![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |![Project Reactor](https://img.shields.io/badge/Reactor-6666FF?style=for-the-badge&logo=projectreactor&logoColor=white) |![Lombok](https://img.shields.io/badge/Lombok-D39900?style=for-the-badge&logo=lombok&logoColor=white) |![ModelMapper](https://img.shields.io/badge/ModelMapper-000000?style=for-the-badge) |
-|:---: |:---: |:---: |:---: |
-| Spring Core, Boot, MVC, Security и др. | Реактивное программирование | Автоматизация кода | Для маппинга DTO |
+|![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) |![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) |![Liquibase](https://www.liquibase.org/img/liquibase-logo.svg) |
+|---|---|---|
+| PostgreSQL (JDBC, R2DBC) | Redis (Spring Cache + Lettuce) | Liquibase (миграции) |
 
-|![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) |![Mockito](https://img.shields.io/badge/Mockito-000000?style=for-the-badge&logo=mockito) |![Testcontainers](https://img.shields.io/badge/Testcontainers-363636?style=for-the-badge) |
-|:---: |:---: |:---: |
-| Юнит-тестирование | Мокирование | Контейнеры для интеграционных тестов |
+|![Thymeleaf](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg) |![OpenAPI](https://seeklogo.com/images/O/openapi-logo-62BE7AAA48-seeklogo.com.png) |![Spring MVC](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) |![WebFlux](https://upload.wikimedia.org/wikipedia/commons/8/88/Spring_WebFlux_Logo.svg) |
+|---|---|---|---|
+| Thymeleaf | OpenAPI Generator | Spring MVC | WebFlux |
 
-### Базы данных и работа с данными  
-|![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |![Liquibase](https://img.shields.io/badge/Liquibase-9F9F9F?style=for-the-badge) |
-|:---: |:---: |:---: |
-| PostgreSQL (JDBC, R2DBC) | Кеширование Redis | Миграции БД |
+|![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |![Maven](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg) |![Gradle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg) |![Jetty](https://cdn.iconscout.com/icon/free/png-256/jetty-282138.png) |![Tomcat](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg) |![Netty](https://netty.io/images/favicon.png) |
+|---|---|---|---|---|---|
+| Docker | Maven | Gradle | Jetty | Tomcat | Netty |
 
-### Веб и UI  
-|![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white) |![OpenAPI](https://img.shields.io/badge/OpenAPI-6E6E6E?style=for-the-badge&logo=openapiinitiative) |
-|:---: |:---: |
-| Thymeleaf и Spring MVC/WebFlux | OpenAPI Generator |
+|![Kafka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg) |![Apache HttpClient](https://cdn.iconscout.com/icon/free/png-256/apache-httpclient-223048.png) |![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg) |![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
+|---|---|---|---|
+| Apache Kafka | Apache HttpClient 5 | Postman | Git |
 
-### Серверы и инфраструктура  
-|![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) |![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) |![Jetty](https://img.shields.io/badge/Jetty-000000?style=for-the-badge) |![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat) |![Netty](https://img.shields.io/badge/Netty-000000?style=for-the-badge) |
-|:---: |:---: |:---: |:---: |:---: |:---: |
-
-### Мессенджеры и интеграции  
-|![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |![Apache HttpClient](https://img.shields.io/badge/Apache_HttpClient-000000?style=for-the-badge) |![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-|:---: |:---: |:---: |:---: |
-
-### Безопасность  
-|![Keycloak](https://img.shields.io/badge/Keycloak-953235?style=for-the-badge&logo=keycloak&logoColor=white) |![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) |
-|:---: |:---: |
-| Keycloak сервер | WebSecurity, OAuth2 |
+|![Keycloak](https://seeklogo.com/images/K/keycloak-logo-9CF7F2F394-seeklogo.com.png) |![Spring Security](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springsecurity/springsecurity-original.svg) |
+|---|---|
+| Keycloak | Spring Security (WebSecurity, OAuth2) |
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/YAKSS9)  
