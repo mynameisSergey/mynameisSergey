@@ -15,7 +15,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" width="50" /><br>Thymeleaf</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" /><br>Maven</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/jetty-282138.png" width="50" /><br>Jetty</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3425/3425602.png" width="50" /><br>Jetty</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50" /><br>Tomcat</td>
   </tr>
   <tr>
@@ -31,8 +31,9 @@
     <td></td>
     <td></td>
     <td></td>
-  </tr>
+  </tr>  
 </table>
+
 
 
 
