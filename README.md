@@ -31,7 +31,65 @@
     <td></td>
     <td></td>
     <td></td>
-  </tr>  
+  </tr>
+  <tr>
+    <td colspan="5">
+      <b>Фреймворки и библиотеки:</b><br>
+      Spring Framework (Core, Cloud, Boot, MVC, WebFlux, Security, Data: JPA/Hibernate, JDBC, R2DBC, OAuth2 Client & Resource Server, AOP, Actuator)<br>
+      Spring Cloud Netflix Eureka (Service Discovery)<br>
+      Project Reactor (реактивное программирование)<br>
+      Lombok, ModelMapper<br>
+      JUnit 5, Mockito, Testcontainers<br>
+      Apache ZooKeeper<br>
+      HashiCorp Consul
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      <b>Базы данных и работа с данными:</b><br>
+      PostgreSQL (JDBC, R2DBC драйверы)<br>
+      Redis (кеширование и cache через Spring Cache + Lettuce)<br>
+      Liquibase (миграции)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      <b>Веб и UI:</b><br>
+      Thymeleaf, Spring MVC/WebFlux<br>
+      OpenAPI Generator
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      <b>Серверы и инфраструктура:</b><br>
+      Docker, Maven, Gradle<br>
+      Jetty, Tomcat, Netty<br>
+      Nginx<br>
+      Helm<br>
+      Jenkins
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      <b>Мессенджеры и интеграции:</b><br>
+      Apache Kafka<br>
+      Apache HttpClient 5<br>
+      Postman, Git
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      <b>Безопасность:</b><br>
+      Keycloak<br>
+      Spring Security (WebSecurity, OAuth2)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      <b>Архитектура:</b><br>
+      Монолитная и микросервисная архитектура
+    </td>
+  </tr>
 </table>
 
 
