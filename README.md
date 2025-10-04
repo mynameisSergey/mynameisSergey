@@ -3,95 +3,53 @@
 ## Hello! I'm a Java developer!
 # TECHNICAL SKILLS
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /><br>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" /><br>Spring</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" /><br>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" /><br>Redis</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" width="50" /><br>Thymeleaf</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" /><br>Maven</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3425/3425602.png" width="50" /><br>Jetty</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50" /><br>Tomcat</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" /><br>Apache Kafka</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" /><br>Postman</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" /><br>Kubernetes</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" /><br>Jenkins</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br>GitHub</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="5">
-      <b>Фреймворки и библиотеки:</b><br>
-      Spring Framework (Core, Cloud, Boot, MVC, WebFlux, Security, Data: JPA/Hibernate, JDBC, R2DBC, OAuth2 Client & Resource Server, AOP, Actuator)<br>
-      Spring Cloud Netflix Eureka (Service Discovery)<br>
-      Project Reactor (реактивное программирование)<br>
-      Lombok, ModelMapper<br>
-      JUnit 5, Mockito, Testcontainers<br>
-      Apache ZooKeeper<br>
-      HashiCorp Consul
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-      <b>Базы данных и работа с данными:</b><br>
-      PostgreSQL (JDBC, R2DBC драйверы)<br>
-      Redis (кеширование и cache через Spring Cache + Lettuce)<br>
-      Liquibase (миграции)
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-      <b>Веб и UI:</b><br>
-      Thymeleaf, Spring MVC/WebFlux<br>
-      OpenAPI Generator
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-      <b>Серверы и инфраструктура:</b><br>
-      Docker, Maven, Gradle<br>
-      Jetty, Tomcat, Netty<br>
-      Nginx<br>
-      Helm<br>
-      Jenkins
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-      <b>Мессенджеры и интеграции:</b><br>
-      Apache Kafka<br>
-      Apache HttpClient 5<br>
-      Postman, Git
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-      <b>Безопасность:</b><br>
-      Keycloak<br>
-      Spring Security (WebSecurity, OAuth2)
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-      <b>Архитектура:</b><br>
-      Монолитная и микросервисная архитектура
-    </td>
-  </tr>
-</table>
+<style>.tech-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+  }.tech-item {
+    text-align: center;
+    width: 70px;
+    cursor: default;
+  }.tech-item img {
+    width: 50px;
+    height: 50px;
+    transition: transform 0.3s;
+  }.tech-item:hover img {
+    transform: scale(1.2);
+  }.tech-item span {
+    display: block;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #333;
+  }
+</style>
 
+<div class="tech-container">
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><span>Java</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"><span>Spring</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"><span>React</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"><span>PostgreSQL</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"><span>Redis</span></div>
+
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" alt="Thymeleaf"><span>Thymeleaf</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"><span>Docker</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven"><span>Maven</span></div>
+  <div class="tech-item"><img src="https://cdn-icons-png.flaticon.com/512/3425/3425602.png" alt="Jetty" style="width:50px;height:50px"><span>Jetty</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat"><span>Tomcat</span></div>
+
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka"><span>Apache Kafka</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"><span>Postman</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"><span>Git</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"><span>Kubernetes</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins"><span>Jenkins</span></div>
+
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"><span>GitHub</span></div>
+  <div class="tech-item"><img src="https://raw.githubusercontent.com/helm/helm/main/docs/images/helm.svg" alt="Helm" style="width:50px;height:50px"><span>Helm</span></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="width:50px;height:50px"><span>CSS</span></div>
+</div>
 
 
 
