@@ -43,6 +43,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=reviews,discussions_started,discussions_answered&show=prs_merged,prs_merged_percentage)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=reviews,discussions_started,discussions_answered&show=prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=reviews,discussions_started,discussions_answered,contributions&show=prs_merged,prs_merged_percentage
+)
 
 
