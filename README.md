@@ -37,11 +37,9 @@
 
 
 
+[![trophy](https://github-trophies.vercel.app/?username=mynameisSergey&title=Stars,Followers,Languages,Commits,PullRequest,Repositories)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/YAKSS9)  
-
-[![trophy](https://github-trophies.vercel.app/?username=mynameisSergey&title=Stars,Followers,Languages,Commits,PullRequest,Repositories)
-
-
-
