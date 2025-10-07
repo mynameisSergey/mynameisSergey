@@ -41,6 +41,6 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/YAKSS9)  
 
-
+[![trophy](https://github-trophies.vercel.app/?username=mynameisSergey&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisSergey&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
